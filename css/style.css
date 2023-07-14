@@ -453,7 +453,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../https://github.com/surendragtm/surendragautam12/blob/main/img/orginalsurajnobg2.png?raw=true') right bottom no-repeat;
+	background: url('https://github.com/surendragtm/surendragautam12/blob/main/img/orginalsurajnobg2.png?raw=true') right bottom no-repeat;
 	background-size: calc(39rem);
 	padding:60px -20cm 60px 0;
 	height:100vh;
@@ -564,7 +564,7 @@ h1.arrow {
 	text-transform:uppercase;
 	color:#353535;
 	letter-spacing: 4px;
-	background:url('../https://github.com/surendragtm/surendragautam12/blob/main/img/h1-bg.png?raw=true') no-repeat center bottom;
+	background:url('https://github.com/surendragtm/surendragautam12/blob/main/img/h1-bg.png?raw=true') no-repeat center bottom;
 	padding-bottom:30px;
 	font-weight: bold;
 }
